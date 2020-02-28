@@ -163,12 +163,6 @@
 		"defname": "Beer"
 	},
 	{
-		"abr": "berries",
-		"price": -10,
-		"category": "Vegetarian",
-		"defname": "RawBerries"
-	},
-	{
 		"abr": "billiardstable",
 		"price": 600,
 		"category": "Furniture",
@@ -271,46 +265,10 @@
 		"defname": "Carbonsuit"
 	},
 	{
-		"abr": "caribou",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Caribou"
-	},
-	{
-		"abr": "cariboumeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Caribou"
-	},
-	{
 		"abr": "carver",
 		"price": 167,
 		"category": "Melee weapons",
 		"defname": "Carver"
-	},
-	{
-		"abr": "cassowary",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Cassowary"
-	},
-	{
-		"abr": "cassowaryegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggCassowaryFertilized"
-	},
-	{
-		"abr": "cat",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Cat"
-	},
-	{
-		"abr": "catmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Cat"
 	},
 	{
 		"abr": "cataphractarmor",
@@ -367,52 +325,10 @@
 		"defname": "ChessTable"
 	},
 	{
-		"abr": "chicken",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Chicken"
-	},
-	{
-		"abr": "chickenegg(fert.)",
-		"price": -10,
-		"category": "Eggs (fert.)",
-		"defname": "EggChickenFertilized"
-	},
-	{
 		"abr": "chickenegg(unfert.)",
 		"price": 12,
 		"category": "Eggs (unfert.)",
 		"defname": "EggChickenUnfertilized"
-	},
-	{
-		"abr": "chickenmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Chicken"
-	},
-	{
-		"abr": "chinchilla",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Chinchilla"
-	},
-	{
-		"abr": "chinchillafur",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Chinchilla"
-	},
-	{
-		"abr": "chinchillameat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Chinchilla"
-	},
-	{
-		"abr": "chocolate",
-		"price": -10,
-		"category": "Foods",
-		"defname": "Chocolate"
 	},
 	{
 		"abr": "circadianassistant",
