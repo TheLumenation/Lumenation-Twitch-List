@@ -25,36 +25,6 @@
 		"defname": "RawAgave"
 	},
 	{
-		"abr": "alpaca",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alpaca"
-	},
-	{
-		"abr": "alpacameat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Alpaca"
-	},
-	{
-		"abr": "alpacawool",
-		"price": -10,
-		"category": "Textiles",
-		"defname": "WoolAlpaca"
-	},
-	{
-		"abr": "alphabeaver",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Alphabeaver"
-	},
-	{
-		"abr": "alphabeavermeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Alphabeaver"
-	},
-	{
 		"abr": "ambrosia",
 		"price": 25,
 		"category": "Drugs",
@@ -83,36 +53,6 @@
 		"price": 1225,
 		"category": "Ranged weapons",
 		"defname": "Gun_RSAMRifle"
-	},
-	{
-		"abr": "archotecharm",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "ArchotechArm"
-	},
-	{
-		"abr": "archotecheye",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "ArchotechEye"
-	},
-	{
-		"abr": "archotechleg",
-		"price": -10,
-		"category": "Archotech",
-		"defname": "ArchotechLeg"
-	},
-	{
-		"abr": "arcticfox",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Fox_Arctic"
-	},
-	{
-		"abr": "arcticwolf",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Wolf_Arctic"
 	},
 	{
 		"abr": "armchair",
@@ -205,18 +145,6 @@
 		"defname": "Gun_RSBattleRifle"
 	},
 	{
-		"abr": "bearmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Bear_Grizzly"
-	},
-	{
-		"abr": "bearskin",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Bear"
-	},
-	{
 		"abr": "bed",
 		"price": 155,
 		"category": "Furniture",
@@ -227,12 +155,6 @@
 		"price": 137,
 		"category": "Furniture",
 		"defname": "Bedroll"
-	},
-	{
-		"abr": "beef",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Cow"
 	},
 	{
 		"abr": "beer",
@@ -295,82 +217,16 @@
 		"defname": "BionicStomach"
 	},
 	{
-		"abr": "birdmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Cassowary"
-	},
-	{
-		"abr": "birdskin",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Bird"
-	},
-	{
-		"abr": "bison",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Bison"
-	},
-	{
-		"abr": "bisonmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Bison"
-	},
-	{
-		"abr": "bisonwool",
-		"price": -10,
-		"category": "Textiles",
-		"defname": "WoolBison"
-	},
-	{
 		"abr": "blowgun",
 		"price": 170,
 		"category": "Ranged weapons",
 		"defname": "Gun_Blowgun"
 	},
-	{
-		"abr": "bluefur",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Bluefur"
-	},
-	{
+		{
 		"abr": "bolt-actionrifle",
 		"price": 425,
 		"category": "Ranged weapons",
 		"defname": "Gun_BoltActionRifle"
-	},
-	{
-		"abr": "boomalope",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Boomalope"
-	},
-	{
-		"abr": "boomalopemeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Boomalope"
-	},
-	{
-		"abr": "boomrat",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Boomrat"
-	},
-	{
-		"abr": "boomratmeat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Boomrat"
-	},
-	{
-		"abr": "bowlerhat",
-		"price": -10,
-		"category": "Headgear",
-		"defname": "Apparel_BowlerHat"
 	},
 	{
 		"abr": "brazier",
@@ -401,24 +257,6 @@
 		"price": 166,
 		"category": "Apparel",
 		"defname": "Apparel_CollarShirt"
-	},
-	{
-		"abr": "camelhide",
-		"price": -10,
-		"category": "Leathers",
-		"defname": "Leather_Camel"
-	},
-	{
-		"abr": "capybara",
-		"price": -10,
-		"category": "Animal",
-		"defname": "Capybara"
-	},
-	{
-		"abr": "capybarameat",
-		"price": -10,
-		"category": "Meat",
-		"defname": "Meat_Capybara"
 	},
 	{
 		"abr": "carbine",
