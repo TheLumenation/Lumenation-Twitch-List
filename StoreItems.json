@@ -49,6 +49,12 @@
 		"category": "Mortar shells",
 		"defname": "Shell_AntigrainWarhead"
 	},
+		{
+		"abr": "TEST",
+		"price": -10,
+		"category": "Drugs",
+		"defname": "YP_VectorShot"
+	},
 	{
 		"abr": "anti-materielrifle",
 		"price": 1225,
