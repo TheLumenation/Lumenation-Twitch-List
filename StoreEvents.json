@@ -276,10 +276,20 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "hodlbotvote",
-		"price": 600,
-		"karmatype": "Neutral"
+		"abr": "reviveall",
+		"price": 8000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "revive",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "heal",
+		"price": 2167,
+		"karmatype": "Good"
 	}
 	],
-	"total": 56
+	"total": 58
 }
