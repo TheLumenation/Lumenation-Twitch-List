@@ -116,6 +116,11 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "maninblack",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "madanimal",
 		"price": 200,
 		"karmatype": "Bad"
@@ -281,15 +286,15 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "revive",
+		"abr": "reviveme",
 		"price": 2833,
 		"karmatype": "Good"
 	},
 	{
-		"abr": "heal",
+		"abr": "healme",
 		"price": 2167,
 		"karmatype": "Good"
 	}
 	],
-	"total": 58
+	"total": 59
 }
