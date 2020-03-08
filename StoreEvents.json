@@ -2,7 +2,7 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 800,
+		"price": 1750,
 		"karmatype": "Bad"
 	},
 	{
@@ -17,7 +17,7 @@
 	},
 	{
 		"abr": "vomitrain",
-		"price": 650,
+		"price": 900,
 		"karmatype": "Neutral"
 	},
 	{
@@ -33,7 +33,7 @@
 	{
 		"abr": "drythunderstorm",
 		"price": 450,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "snowgentle",
@@ -42,7 +42,7 @@
 	},
 	{
 		"abr": "snowhard",
-		"price": 450,
+		"price": 900,
 		"karmatype": "Bad"
 	},
 	{
@@ -58,7 +58,7 @@
 	{
 		"abr": "flashstorm",
 		"price": 400,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "coldsnap",
@@ -67,12 +67,12 @@
 	},
 	{
 		"abr": "solarflare",
-		"price": 500,
+		"price": 1200,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "shortcircuit",
-		"price": 500,
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
@@ -81,14 +81,9 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "aurora",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "blight",
 		"price": 700,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -114,11 +109,6 @@
 		"abr": "meteor",
 		"price": 150,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "maninblack",
-		"price": 2000,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "madanimal",
@@ -177,13 +167,13 @@
 	},
 	{
 		"abr": "shippartpoison",
-		"price": 1900,
-		"karmatype": "Bad"
+		"price": 2500,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "shippartpsychic",
-		"price": 2400,
-		"karmatype": "Bad"
+		"price": 3000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "militaryaid",
@@ -192,8 +182,8 @@
 	},
 	{
 		"abr": "raid",
-		"price": 1500,
-		"karmatype": "Bad"
+		"price": 2000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "dropraid",
@@ -212,8 +202,8 @@
 	},
 	{
 		"abr": "mechanoidraid",
-		"price": 2500,
-		"karmatype": "Bad"
+		"price": 3000,
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "manhunterpack",
@@ -223,7 +213,7 @@
 	{
 		"abr": "predators",
 		"price": 2500,
-		"karmatype": "Bad"
+		"karmatype": "Doom"
 	},
 	{
 		"abr": "randomdisease",
@@ -234,11 +224,6 @@
 		"abr": "disease",
 		"price": 1000,
 		"karmatype": "Bad"
-	},
-	{
-		"abr": "reviveanypawn",
-		"price": 1200,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -296,5 +281,5 @@
 		"karmatype": "Good"
 	}
 	],
-	"total": 59
+	"total": 56
 }
